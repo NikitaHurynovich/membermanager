@@ -1,2 +1,2 @@
 # membermanager
-Module for managing users and organisations
+RBAC Module for managing users and organisations
